@@ -2,8 +2,8 @@
 
 I'm a full-stack developer, currently living in Brisbane, Australia 🇦🇺
 
-- 🔭 I’m currently working on something cool 😉
-- 🌱 I’m currently learning: Web3, Python, Javascript, GraphQL
+
+- 🌱  I’m currently learning: Web3, Python, Javascript, GraphQL
 
 <h3>Let's Connect!</h3>
 <p>
