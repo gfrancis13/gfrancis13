@@ -2,8 +2,6 @@
 
 I'm a full-stack developer, currently living in Brisbane, Australia 🇦🇺
 
-
-- I’m currently learning: Web3, Phaser
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
