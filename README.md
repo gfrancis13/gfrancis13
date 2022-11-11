@@ -1,7 +1,10 @@
 ### Hey, I'm Glenn! 👋
 
-I'm a full-stack developer, currently living in Brisbane, Australia 🇦🇺
+I'm a full-stack developer from Brisbane, Australia 🇦🇺
 
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/glenn-francis/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gmf001&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
